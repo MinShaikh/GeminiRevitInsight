@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text>GeminiTrial</Text>
+		<FullClassName>GeminiRevit.GeminiInsightCommand</FullClassName>
+		<Assembly>C:\Users\proje\source\repos\GeminiTrial1\bin\Debug\GeminiTrial1.dll</Assembly>
+		<AddInId>
+			A1DF9633-D6FD-493D-81AA-7D37D78FE3F9
+		</AddInId>
+		<VendorId>ADNP</VendorId>
+		<VendorDescription>Autodesk, Inc. www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
